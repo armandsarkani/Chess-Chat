@@ -22,7 +22,7 @@ Then, a list of your friends will be shown. You can add and remove friends, or c
 Once you've opened a chat with a friend, you can play chess by clicking the "Chess" button (or typing the word "Chess").
 To launch the server program, simply specify a port number.
 
-**For the command line version:**
+**For the command-line version:**
 
 For the client program, first specify a hostname and port number. Enter **r** if you wish to register as a new user, or **l** if you wish to login. Then enter a username and a password. Then add or remove friends if necessary, and type **Chat** to chat with a user that is your friend.
 To play a game of chess with a friend, simply type in **Chess,** and then type in the coordinate of the move you wish to make (i.e. e2e4). The person that initiates a chess game will automatically be the white player.
