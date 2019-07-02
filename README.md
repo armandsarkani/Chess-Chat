@@ -1,4 +1,4 @@
-# **Chesster Chat**
+# **Chess Chat**
 An instant messaging application with an integrated chess game <br/>
 **Version 1.0:** Final Release <br/>
 March 18, 2019
